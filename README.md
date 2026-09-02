@@ -1,4 +1,3 @@
-NutriMariana
 NutriMariana: un enfoque predictivo basado en Machine Learning
 
 NutriMariana es un proyecto de grado interdisciplinario desarrollado en la Universidad Mariana por estudiantes del programa de Ingeniería de Sistemas, con apoyo del programa de Nutrición y Dietética.
