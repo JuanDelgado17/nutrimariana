@@ -1,0 +1,21 @@
+# Entorno Python
+.venv/
+__pycache__/
+*.pyc
+
+# Datos de investigación
+data/raw/*
+data/processed/*
+
+# Archivos temporales
+*.log
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Secrets
+.env
+
+# Caché Streamlit
+.streamlit/secrets.toml
